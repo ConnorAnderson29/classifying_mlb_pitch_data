@@ -1,3 +1,9 @@
+# Classifying MLB In-Game Pitches
+## By Werlindo Mangrobang and Connor Anderson
+
+We utilized MLB play-by-play stats from 2018 Seattle Mariner games
+to create a classification model that can correctly classify pitches based on thier spin rate, break angle, break angle, pitch speed etc... 
+
 
 # Getting Pitch-level Data
 The goal is to obtain data related to a single pitch in an MLB game, given our decided parameters. For example, "the 2nd pitch of the 3rd at-bat of the bottom of the first inning" (to demonstrate the granularity).
